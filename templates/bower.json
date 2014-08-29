@@ -1,0 +1,7 @@
+{
+  "name": "<%= appNameSlug %>",
+  "private": true,
+  "dependencies": {
+    "react": "~0.11.1"
+  }
+}

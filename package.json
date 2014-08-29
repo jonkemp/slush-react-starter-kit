@@ -1,0 +1,55 @@
+{
+  "name": "slush-react-starter-kit",
+  "description": "Generator for the React Starter Kit",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jonkemp/slush-react-starter-kit",
+  "author": {
+    "name": "Jonathan Kemp",
+    "email": "kempdogg@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonkemp/slush-react-starter-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonkemp/slush-react-starter-kit/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jonkemp/slush-react-starter-kit/blob/master/LICENSE"
+    }
+  ],
+  "main": "slushfile.js",
+  "engines": {
+    "node": ">= 0.10.26",
+    "npm": ">=1.4.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "gulp": "^3.8.5",
+    "gulp-conflict": "^0.2.0",
+    "gulp-install": "^0.2.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-template": "^1.0.0",
+    "gulp-util": "^3.0.0",
+    "inquirer": "^0.6.0",
+    "slush": ">=1.0.0",
+    "underscore.string": "^2.3.3"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "mock-gulp-dest": "^0.1.0",
+    "should": "*"
+  },
+  "keywords": [
+    "slushgenerator",
+    "web",
+    "app",
+    "front-end",
+    "react",
+    "gulp"
+  ]
+}
