@@ -58,6 +58,7 @@ describe('slush-react-starter-kit', function() {
                     'bower.json',
                     'gulpfile.js',
                     'package.json',
+                    'README.md',
                     'app/index.html',
                     'app/styles/main.css',
                     'app/scripts/main.js'
