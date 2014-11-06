@@ -2,6 +2,6 @@
   "name": "<%= appNameSlug %>",
   "private": true,
   "dependencies": {
-    "react": "~0.11.1"
+    "react": "~0.12.0"
   }
 }
