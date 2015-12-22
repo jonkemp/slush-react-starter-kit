@@ -1,7 +1,7 @@
 {
   "name": "slush-react-starter-kit",
   "description": "Generator for the React Starter Kit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Jonathan Kemp <kempdogg@gmail.com> (http://jonkemp.com/)",
   "repository": "jonkemp/slush-react-starter-kit",
   "license": "MIT",
